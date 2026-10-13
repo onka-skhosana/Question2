@@ -19,5 +19,5 @@ public class ConsoleSales extends Consoles
         System.out.println("TOTAL SALES: " + getTotalSales());
         System.out.println("--------------------------------------------------");
     }
-    //Testing
+    //Test
 }
